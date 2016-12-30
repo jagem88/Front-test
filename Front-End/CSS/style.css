@@ -1,0 +1,48 @@
+#btn1 {
+    width:150px;
+    height:150px;
+    border-radius: 8px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    margin: 8px 2px;
+    cursor: pointer;
+    margin-left: 1cm;
+}
+#btn1:hover {
+    color: white;
+}
+
+
+#btn2 {
+    width:150px;
+    height:150px;
+    border-radius: 8px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 1cm;
+}
+#btn2:hover {
+    color: white;
+}
+#tx {
+    width: 350px;
+    margin-left: 1cm;
+}
+#txa {
+    
+    margin-left: 1cm;
+}
+
+h1,h3 {
+    
+    margin-left: 1cm;
+}
